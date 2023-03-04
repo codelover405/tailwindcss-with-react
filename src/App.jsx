@@ -1,6 +1,6 @@
 import React from 'react'
 import styles from './style'
-import { Stats, Business, Billing, CardDeal, Testimonials, Clients, CTA, Footer, Navbar } from "../components";
+import { Stats, Business, Billing, CardDeal, Testimonials, Clients, CTA, Footer, Navbar } from "./components";
 
 const App = () => {
   return (
@@ -12,7 +12,6 @@ const App = () => {
           </div>
         </div>
       </div>
-
       <div className={`bg-primary ${styles.flexStart}`}>
         <div className={`${styles.boxWidth}`}>
         </div>
