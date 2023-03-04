@@ -10,6 +10,7 @@ import GatStart from './GatStart';
 import Stats from './Stats';
 import Testimonials from './Testimonials';
 import Navbar from "./Navbar";
+import Hero from "./Hero";
 import "../index.css";
 
 export {
