@@ -25,5 +25,6 @@ export {
     Footer,
     GatStart,
     Stats,
-    Testimonials
+    Testimonials,
+    Hero
 }
